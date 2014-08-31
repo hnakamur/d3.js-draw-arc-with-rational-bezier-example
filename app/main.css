@@ -1,0 +1,27 @@
+svg {
+  border: 1px solid black;
+}
+
+.reference {
+  stroke: red;
+  fill: none;
+  opacity: 0.5;
+}
+
+.control {
+  stroke: none;
+  fill: green;
+  opacity: 0.5;
+}
+
+circle.curve {
+  stroke: none;
+  fill: blue;
+  opacity: 0.5;
+}
+
+line.curve {
+  stroke: blue;
+  fill: none;
+  opacity: 0.5;
+}
